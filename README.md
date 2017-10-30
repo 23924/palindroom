@@ -1,0 +1,2 @@
+# palindroom
+palindrome check opdracht
